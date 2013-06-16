@@ -1,7 +1,7 @@
 <?php 
 	include 'api.php';
 	include 'sort.php';
-	$apiKey = '7EYFZFIYDBJKNOL3R';
+	$apiKey = '';
 	
 	$api = new api();
 	
