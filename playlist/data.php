@@ -1,7 +1,7 @@
 <?php 
 	include 'api.php';
 	include 'sort.php';
-	$apiKey = '';
+	$apiKey = '<YOUR-ECHO-NEST-API-HERE>';
 	
 	$api = new api();
 	
