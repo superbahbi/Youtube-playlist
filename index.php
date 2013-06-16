@@ -9,7 +9,7 @@
 
     <!-- Le styles -->
     <link href="../assets/css/bootstrap.css" rel="stylesheet">
-    <link href="../playlist/css/custom.css" rel="stylesheet">
+    <link href="../playlist/inc/css/custom.css" rel="stylesheet">
     <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
 
 
@@ -56,8 +56,8 @@
 
      <?php else: ?>
 	<?php 
-		include './playlist/data.php'; 
-		include './playlist/function.php';
+		include './inc/data.php'; 
+		include './inc/function.php';
 	?>
 	
     <?php if ( $artistID &&  $videoData->response->total != 0): ?> 
@@ -196,7 +196,7 @@
 
 
       <div class="footer row" >
-        <p><a href="http://the.echonest.com" > <img src="./playlist/echo.png"> </a></p>
+        <p><a href="http://the.echonest.com" > <img src="./inc/echo.png"> </a></p>
       </div>
 
     </div> <!-- /container -->
