@@ -1,0 +1,56 @@
+      body {
+        padding-top: 20px;
+        padding-bottom: 40px;
+      }
+
+      /* Custom container */
+      .container-narrow {
+        margin: 0 auto;
+        max-width: 700px;
+      }
+      .container-narrow > hr {
+        margin: 30px 0;
+      }
+
+      /* Main marketing message and sign up button */
+      .jumbotron {
+        margin: 60px 0;
+        text-align: center;
+      }
+      .jumbotron h1 {
+        font-size: 72px;
+        line-height: 1;
+      }
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+      }
+
+      /* Supporting marketing content */
+      .marketing {
+        margin: 60px 0;
+      }
+      .marketing p + h4 {
+        margin-top: 28px;
+      }
+	  .row {
+		text-align: center;        
+	  }
+	  .hlink {
+	    text-decoration: none;
+	  }
+	    .table-hover tbody tr:hover td,
+		.table-hover tbody tr:hover th {
+		  background-color: #da4f49;
+		  color: #ffffff;
+		  cursor: pointer;
+		}
+		.sidebar { 
+		  color: #585858;
+		  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.5);
+		}
+
+		.highlight {
+		background-color: #da4f49;
+		color: #ffffff;
+			}
