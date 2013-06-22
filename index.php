@@ -36,7 +36,7 @@
     <div class="container-narrow">
 
       <div class="masthead row hlink">
-        <h3 ><a href="http://obscureserver.com">Neverpuddi Playlist</a></h3>
+        <h3 ><a href="/playlist">Neverpuddi Playlist</a></h3>
 		<h4 class="muted">Listen to your favorite artists, for free. </h4>
       </div>
 
