@@ -1,3 +1,3 @@
-Neverpuddi Playlist
+Youtube Playlist
 
 http://bahbi.net/playlist
